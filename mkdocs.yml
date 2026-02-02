@@ -1,0 +1,19 @@
+site_name: Entropy Buffer
+site_description: CSPRNG entropy pool manager
+site_url: https://vindicta-platform.github.io/Entropy-Buffer/
+
+repo_name: vindicta-platform/Entropy-Buffer
+repo_url: https://github.com/vindicta-platform/Entropy-Buffer
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: deep-purple
+      accent: cyan
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Contributing: contributing.md
+plugins:
+  - search
